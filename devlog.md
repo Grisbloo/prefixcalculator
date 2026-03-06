@@ -17,3 +17,12 @@ Friday, March 6, 12:30 PM
 Issues: Good god man, i could run the homework code easily, I don't understand what happened. Anyways, ironically enough I am using GitHub to do my programming in because then I don't need to do all that funky weird stuff that my computer is asking for. I installed VScode executables and the dll injections and everything it could possibly need for the redestrubitables and it still gave me the same error code. So now I'm on Github programming the thing and using this Git to log it. Whatever works I guess.
 
 Goals: Run anything via racket.
+
+Friday, March 6, 12:45 PM
+
+LETS GOOOOOOOOOOOOOOOOOOOOOOOOOOOO. Finally. Progress. Now time to code some stuff, I'm basically gonna go down the list of things I need to do.
+Mode dectection: Pretty sure I'm done (Thanks prof)
+Helper functions: TO DO
+History : TO DO
+Eval: TO DO
+Entry point: Basically done
