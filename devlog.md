@@ -11,3 +11,9 @@ Friday, March 6, 12:00 PM
 Current issues: dealing with microsoft and their wonderful API-MS-WIN-CRT-RUNTIME-L1-1-1.0.DLL issues while trying to run the actual program
 
 Acomplishments: got a skeleton down in comments and have started programming the different functions; starting with the eval-loop function; am going to use DrRacket to get through this and haev the machine run my code.
+
+Friday, March 6, 12:30 PM
+
+Issues: Good god man, i could run the homework code easily, I don't understand what happened. Anyways, ironically enough I am using GitHub to do my programming in because then I don't need to do all that funky weird stuff that my computer is asking for. I installed VScode executables and the dll injections and everything it could possibly need for the redestrubitables and it still gave me the same error code. So now I'm on Github programming the thing and using this Git to log it. Whatever works I guess.
+
+Goals: Run anything via racket.
